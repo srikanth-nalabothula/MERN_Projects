@@ -1,3 +1,6 @@
+# This is a Simple MERN Stack Application.
+# I'm working on running the application in a Docker environment using Docker compose.
+
 # A simple MERN stack application 
 
 ### Create a network for the docker containers
